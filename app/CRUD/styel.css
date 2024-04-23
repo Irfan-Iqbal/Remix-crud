@@ -1,0 +1,19 @@
+.createCountry {
+  width: 90%;
+  margin: 20px auto;
+}
+.readData {
+  width: 93%;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+}
+
+
+@media screen and (max-width: 700px) {
+    .readData {
+      width: 100%;
+    }
+  }
